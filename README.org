@@ -1,0 +1,9 @@
+* ftw
+
+The For The Win (FTW) library is a collection of Common Lisp utilities and functions that I've found useful in my projects.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/fjames86/ftw.git                   |
+| commit  | 0000000                                                    |
+| systems | ftw                                                       |
+|---------+------------------------------------------------------------|
